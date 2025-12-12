@@ -1,0 +1,8 @@
+streamlit
+pandas
+os
+uuid
+datetime
+plotly.graph_objects
+PIL
+plotly.express
