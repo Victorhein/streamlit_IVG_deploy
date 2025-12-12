@@ -1,0 +1,21 @@
+Data,Conjunto_Titular,Rolo_Titular,Diametro_Titular,Navalha_Titular,Baffles_Titular,Conjunto_Reserva,Rolo_Reserva,Diametro_Reserva,Navalha_Reserva,Baffles_Reserva,Tromba,Observacoes,Data_Registro,Campanha,Data_Inicio,Data_Fim
+,5,20,591.0,1,1,6,45,"597,5",2,2,8.0,Buchas da Micromazza montadas nos dois conjuntos.,2025-09-10 08:58:58,AS,2025-09-02,2025-09-08
+,4,54,607.0,4,2,3,32,"585,5",5,3,6.0,"Ligar o forninho de aquecimento das peças do pote com 6h de antecedência da parada de linha.
+Montado raspador com lâmina Stellite 06;
+Rolo a frio permanece montado disposição para operação.
+",2025-09-10 09:02:26,GL,2025-09-08,2025-10-10
+,2,10,587.0,5,3,1,15,590,4,1,0.0,"Ligar o forninho de aquecimento das peças do pote com 6 horas de antecedência da parada de linha.
+Lançar dados das peças do pote na HMI.
+",2025-09-11 08:36:06,GI,2025-08-28,2025-09-01
+,1,15,590.0,4,2,2,10,587,5,3,0.0,"Ligar o forninho de aquecimento das peças do pote com 6 horas de antecedência da parada de linha.
+Lançar dados das peças do pote na HMI.
+",2025-09-29 08:57:55,GI,2025-09-27,2025-09-28
+,3,31,577.5,5,1,6,44,593,1,1,0.0,"Ligar o forninho de aquecimento das peças do pote com 6h de antecedência da parada de linha.
+Montado raspador com lâmina Stellite 06;
+Rolo a frio permanece montado disposição para operação.
+",2025-09-29 09:04:44,GL,2025-09-28,2025-10-06
+,3,31,577.5,4,1,4,51,589,5,3,0.0,"Peças da campanha em curso serão inspecionadas pela equipe da OCP para retornar para a linha, após inspeção ligar o forninho de aquecimento das peças do pote.",2025-10-06 08:57:48,GL,2025-10-04,2025-10-08
+,1,7,588.0,4,3,2,10,587.5,5,2,,"Ligar o forninho de aquecimento das peças do pote com 6 horas de antecedência da parada de linha.
+Lançar dados das peças do pote na HMI
+",2025-10-13 09:45:07,GI,2025-10-10,2025-10-14
+,05,47,608.0,01,03,06,49,613.0,02,01,10,Buchas da Micromazza montadas nos dois conjuntos.,2025-10-14 08:27:20,AS,2025-10-15,2025-10-18

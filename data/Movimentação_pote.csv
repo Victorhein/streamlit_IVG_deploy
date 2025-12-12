@@ -1,0 +1,12 @@
+ID,Codigo,Localização,Campanha,Fornecedor,Diametro,Motivo da troca,Serviço a realizar,Entrada,Saída,Observação
+3b4bee48-5e81-4f46-8fbf-4c231e07c875,SR01,Em linha,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+511c911a-770c-4107-9ba8-965f8c13de13,SR09,Oficina OCP,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+cda14b30-d254-4ec5-a554-5155bf171c57,SR01,Usinagem,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+dedead53-4f24-4642-8955-b1f8bcfbc429,SR01,Em linha,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+ed787980-e4b5-433b-bf9c-a97bc4f04f6f,SR30,Em linha,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+d5d27560-6cbb-47d7-9720-b06171555404,SR30,Usinagem,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+bfabedf1-6581-4354-8269-bfaa677d161d,SR100,Revestimento,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+8b280546-bd05-4ef3-9299-50c296015717,SR98,Em linha,Nenhum,FAI (Rev. Alpha),,,,2025-07-17,,
+632fe557-58d2-4b1f-91a5-9cbdf4de8e66,SR200,Usinagem,Nenhum,LBI (Rev. ALPHA),300.0,vazamento,troca do mancal de encosto,2025-07-22,,Victor Hein
+309d83b9-eea0-4e01-a69d-38f59730ef86,SR4000,Revestimento,GI,FAI (Rev. Alpha),900.0,Troca devido a queda do mancal,Troca do mancal,2025-10-21,,OM - 23115176138
+ac8902d9-da0f-4ad2-aad6-a0c3f5e02d3c,SR20,Em linha,Nenhum,FAI (Rev. Alpha),,,,2025-07-16,2025-08-21,

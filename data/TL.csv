@@ -1,0 +1,41 @@
+ID,Codigo,Entrada,Saída,Dias de uso,Km de saída,Km/DIA,Posição,Observação
+4bd64b27-e456-425a-a7b4-3786928218f0,4,2025-04-29,2025-06-05,37.0,75.33,2.04,#1 SUP,"Foi aplicado novamente o bending #1, que em seguida apresentou arranhões na FS. Foi realizada inspeção do equipamento, sendo identificada a quebra do cassete superior do bending #1. Procedeu-se à troca do cassete (CJ.04 – Fornecedor não especificado, com 75 km) por um novo (CJ.03 – Precisão, com 0 km)."
+6d37cfd0-fdb3-4de6-8045-9fc6832094e2,3,2025-06-05,2025-06-20,15.0,736.24,49.08,#1 SUP,
+b8e73a1d-73ab-4065-ba2a-d3964bafff04,4,2025-06-20,2025-07-29,39.0,2806.67,71.97,#1 SUP,
+0c254dce-062d-4cee-9781-f99c4018b7fe,8,2025-05-11,2025-06-05,25.0,56.2,2.25,#1 INF,
+2c0bca22-96a5-421f-a0e4-a614c75da3ea,5,2025-06-05,2025-08-06,62.0,4644.66,74.91,#1 INF,
+cbd7f3f3-2d0f-4ec6-b1e2-f35449366b05,4,2025-03-04,2025-04-11,38.0,3233.28,85.09,#2 SUP,"Bending #2 trocado devido quebra e interferência na qualidade, gerando arranhão na tira. "
+c41bb009-5343-4f55-8267-a2d1cf9d3516,3,2025-04-11,2025-04-12,1.0,5.37,5.37,#2 SUP,
+e7c66fd6-888e-4e8f-89d5-2f9e2051c50b,1,2025-04-12,2025-05-28,46.0,9980.0,216.96,#2 SUP," Foi identificado a quebra do cassete superior do Bending #2, inicialmente, realizou-se a troca do cassete CJ.01 - PRECISÃO 
+"
+efe7689d-c273-4c80-8c69-6f35cd3b096d,3,2025-05-28,2025-05-28,0.0,3.3,,#2 SUP,"Foi identificado a quebra do cassete superior do Bending #2, Inicialmente, realizou-se a troca do cassete CJ.01 - PRECISÃO (com 9.980 km rodados) pelo CJ.03 - PRECISÃO (novo). No entanto, este apresentou marcas ao longo da tira durante a operação.
+Diante disso, foi efetuada nova substituição pelo cassete CJ.05I - B2B (novo), com o qual o processo se manteve estável. Foto em anexo.
+"
+5a25a03f-f562-4d19-a629-a8568dac0351,5,2025-05-28,2025-06-19,22.0,3592.08,163.28,#2 SUP,
+65c71bdc-f9cf-4fe3-94bd-8a73a18a2d49,1,2025-06-19,2025-07-31,42.0,5668.83,134.97,#2 SUP,"Durante ronda pela Tension Leveller foi visto cassete do bending #1 com rolete superior solto. Como estávamos com os dois bendings em uso, devido o material de espessura mais alta e a qualidade não estava sendo afetada pelo mesmo incidente, aguardamos a entrada de uma bobina de transição, que havia em uma sequência próxima na MS, para realizar a troca do cassete e evitar possíveis problemas futuros, na produção e na qualidade. Cassete danificado: CJ.01 - Precisão com 5670Km rodados."
+7003890f-6909-4af9-a611-965894befbc7,10,2025-07-31,2025-08-07,7.0,297.01,42.43,#2 SUP,"Realizada troca de cassete do bending #2 superior devido desgaste de um dos roletes de apoio, ocasionando em arranhão em tira. Cassete danificado: CJ.10 - Precisão com 300Km. Cassete novo: 01.GAL2"
+7cfcbd32-4f3b-44a2-879f-a4ac0e914af0,6,2025-02-12,2025-06-18,126.0,20032.99,158.99,#2 INF,
+8d26d2b9-cecd-4f4d-b55d-2f9227bef84e,2,2025-06-18,2025-08-06,49.0,5792.93,118.22,#2 INF,Realizada a montagem dos cassetes e a calibração.
+81de0306-b0de-4eb7-ad4e-c90ef9ea839e,1,2025-08-07,2025-08-20,13.0,5.5,0.42,#2 SUP,
+b5f0d06e-1d34-454c-b758-f4a86c93bbe5,7,2025-07-29,2025-09-16,49.0,9383.07,191.49,#1 SUP,
+3addab89-65cc-48df-ab8d-561afce0ca71,2,2025-08-06,2025-09-16,41.0,8213.8,200.34,#1 INF,
+654ea2bd-0acd-4bb1-9a29-91094863790c,3,2025-08-20,2025-09-15,26.0,479.33,18.44,#2 SUP,
+ed4fc84a-70fe-42b3-94a8-725e0c79ce83,3,2025-08-06,2025-09-15,40.0,778.91,19.47,#2 INF,
+b74eb710-f9cb-4f3f-859a-8be80e46da9b,CJ01S-LINKFER,2025-09-16,2025-09-17,1.0,,,#2 SUP,
+963bf76c-07a4-4bb5-ac9e-67bc77b13bf1,18,2025-06-11,2025-07-21,40.0,8602.0,215.05,Anticross,
+dc95e31d-dab6-4255-abbb-7487d0560781,19,2025-04-16,2025-05-04,18.0,3958.21,219.9,Anticoil,
+a6917183-b0ae-468b-8f68-206e7286779e,17,2025-07-06,2025-07-18,12.0,2340.68,195.06,Anticoil,
+9898e54f-5336-4287-83d6-e145afd87b0a,19,2025-07-18,2025-08-30,43.0,9192.38,213.78,Anticoil,
+6a0026c0-f41e-4c6e-8671-942241ad55ee,22,2025-07-21,2025-09-08,49.0,9553.92,194.98,Anticross,"Realizada troca do anticostela devido arranhões, (SAI: CJ 22 // ENTRA: CJ 18 0 km) e feito a limpeza de todos os K7 com QWERL conforme a ATA "
+77b62488-cb83-40bd-b936-da158c793223,1,2025-04-15,2025-06-10,56.0,12240.16,218.57,Anticross,
+898e18a9-cb59-4261-947f-d8347783cc13,2,2025-04-04,2025-04-16,12.0,1366.9,113.91,Anticoil,
+4225b77b-0191-460d-8e5c-cbf906d5ae53,2,2025-05-04,2025-07-06,63.0,14128.93,224.27,Anticoil,
+3d3fdcb2-d635-4253-8a90-fbe4df3b3a98,5,2025-09-16,2025-10-20,34.0,94.85,2.79,#1 INF,
+39f0604e-2ebe-4a45-bcff-1790e5576f29,2,2025-09-17,2025-10-08,21.0,5198.77,247.56,#2 SUP,
+a9297716-2285-44bb-b953-e7eddceb28cf,6,2025-09-16,2025-10-20,34.0,5619.65,165.28,#2 INF,
+4f4f2281-795b-4e2a-be41-5e5472e7b32c,1,2025-10-21,2025-11-11,21.0,1977.37,94.16,#1 INF,
+ce1333c1-3611-4040-bdcf-2c57c8fcb512,1,2025-09-17,2025-11-11,55.0,2072.29,37.68,#1 SUP,
+0050052b-ffbc-430d-a8a5-e26514518d21,18,2025-09-08,2025-10-21,43.0,8216.06,191.07,Anticross,
+4ff55830-f1cf-44ca-8088-77c1916ccdf1,18,2025-10-22,2025-11-11,20.0,3886.73,194.34,Anticross,
+da7efe71-dfdd-442d-b9e3-7bdcb91b1056,19,2025-11-12,2025-11-17,5.0,235.3,47.06,Anticross,
+b6e6fafd-ae3e-46cc-9f92-82e6a96a8908,2,2025-08-31,2025-10-21,51.0,8739.81,171.37,Anticross,
